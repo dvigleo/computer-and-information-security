@@ -1,1 +1,1 @@
-# computer-information-and-security
+# Computer and Information Security
