@@ -1,9 +1,9 @@
 """
     Activity 3: Cryptography and Cryptonanalysis
     --------------------------------------------
-    Course: Computer Information and Security
+    Course: Computer and Information Security
     Professor: Jorge Rodríguez Ruiz
-    Equipo:
+    Team:
         Daniela Vignau León (A01021698)
         Carlos García González (A01025948)
         Héctor Alexis Reyes Manrique (A01339607)
