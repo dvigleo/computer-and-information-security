@@ -28,5 +28,6 @@ Takes a 26 letter alphabet a-z and stores the ASCII byte value (minus 65 to repr
 - Keys for the input text
 - Keys for the random letters
 - Keys for the summed values
+<br/>
 The program asks for an input text that is desired to be encrypted and returns the generated key plus the output cyphered text.
 
